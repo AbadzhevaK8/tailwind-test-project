@@ -1,0 +1,23 @@
+{
+  "name": "tailwind-test-project",
+  "version": "1.0.0",
+  "description": "Tailwind test project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbadzhevaK8/tailwind-test-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbadzhevaK8/tailwind-test-project/issues"
+  },
+  "homepage": "https://github.com/AbadzhevaK8/tailwind-test-project#readme",
+  "devDependencies": {
+    "postcss": "^8.4.18",
+    "tailwindcss": "^3.2.1"
+  }
+}
